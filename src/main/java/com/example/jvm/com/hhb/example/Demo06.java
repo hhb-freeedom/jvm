@@ -1,8 +1,5 @@
 package com.example.jvm.com.hhb.example;
 
-import java.util.Scanner;
-import java.util.concurrent.ThreadPoolExecutor;
-
 /**
  * @author: huanghongbo
  * @Date: 2019-07-04 16:41
