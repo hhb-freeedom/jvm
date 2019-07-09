@@ -7,7 +7,8 @@ package com.example.jvm.com.hhb.example;
  */
 public class Demo10 {
 
-
+    // javac -d . HelloWorld.java
+    // java com.example.jvm.com.hhb.example.HelloWorld
     public static void main(String[] args) throws ClassNotFoundException {
         FileSystemClassLoader fileSystemClassLoader = new FileSystemClassLoader("/Users/baiwang/Desktop/视频/12_注解_反射_字节码_类加载机制");
         FileSystemClassLoader fileSystemClassLoader2 = new FileSystemClassLoader("/Users/baiwang/Desktop/视频/12_注解_反射_字节码_类加载机制");
